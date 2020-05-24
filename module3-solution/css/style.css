@@ -1,0 +1,17 @@
+.brandname{
+    font-size: 3em;
+}
+.banner {
+    text-align: center;
+}
+
+.mar {
+    margin: 5%;
+    border: .1rem solid black;
+    background-color: #8d9db6;
+    font-size: 1.3rem;
+}
+
+.mar h2{
+    font-size: 2em;
+}
